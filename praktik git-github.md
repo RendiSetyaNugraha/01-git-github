@@ -53,3 +53,15 @@ Dengan menggunakan perintah ini, maka artinya sama aja kita menyuruh agar di git
 Perintah selanjutnya
 > $ git commit -m "<isi pesan>"
  
+ <img src = "image/git commit.PNG">
+
+ #### 4. git push
+ git push adalah memasukkan file-file atau direktori hasil kerjaan kita yang dilakukan setelah melakukan commit ke tempat penyimpanan projeknya (misal dalam kasus ini adalah github).
+
+terakhir kita akan menjalankan perintah git push
+> $ git push origin main
+
+<img src="image/git push.PNG">
+
+Sekarang kita bisa lihat Repo di remote github kita sudah ada repo dan isinya
+<img src="image/Hasil repo.PNG">
