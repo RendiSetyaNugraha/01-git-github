@@ -40,3 +40,16 @@ setelah berada di folder / directory "coba-coba", pada langkah ini akan mencoba 
 
 <img src = "image/file praktik_coba.PNG">
 
+sampai pada langkah ini kita telah berhasil menambahkan folder "coba-coba" dan di dalam folder tersebut telah ada file "praktik_coba.md"
+
+#### 3. git add
+Setelah menambahkan file baru, kita juga bisa mengedit isi file tersebut di vscode, setelah selesai, save.
+Tapi itu baru menyimpan di vscode saja belum di git nya
+
+> $ git add .
+
+Dengan menggunakan perintah ini, maka artinya sama aja kita menyuruh agar di git untuk melakukan penambahan (add) pada semua file dalam folder
+
+Perintah selanjutnya
+> $ git commit -m "<isi pesan>"
+ 
