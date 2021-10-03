@@ -28,18 +28,15 @@ Masuk ke direktori first-repo
 kita lakukan perubahan branch menjadi main, setelah membuat repo karena Git lokal masih menggunakan istilah master. Cara melakukan perubahan:
 > $ git branch -m main
 
+<img src="image/git branch.PNG">
+
 Setelah berhasil menjalankan perintah git clone, kita akan menambahkan folder baru yang diberi nama **coba-coba**
 > $ mkdir coba-coba
 
-Atau kita juga bisa membuat folder tersebut di file explorer
-setelah menjalankan perintah diatas maka akan ada folder baru dengan nama coba-coba, selanjutnya berpindah ke folder / directory yang telah dibuat tadi, dengan menggunakan perintah:
+Atau kita juga bisa membuat folder tersebut di file explorer setelah menjalankan perintah diatas maka akan ada folder baru dengan nama coba-coba, selanjutnya berpindah ke folder / directory yang telah dibuat tadi, dengan menggunakan perintah:
 > $ cd coba-coba
 
-setelah berada di folder / directory "coba-coba", pada langkah ini akan mencoba menambahkan file baru yang di beri nama "praktik_coba" di kode editor, di sini saya memakai vscode.
+setelah berada di folder / directory "coba-coba", pada langkah ini akan mencoba menambahkan file baru yang di beri nama "praktik_coba.md" di kode editor, di sini saya memakai vscode.
 
-
-
-
-
-
+<img src = "image/file praktik_coba.PNG">
 
